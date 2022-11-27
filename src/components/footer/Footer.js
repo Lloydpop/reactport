@@ -36,7 +36,7 @@ export default function Footer() {
      </div>
      <div className='socials'>
         <a href="https://twitter.com/perfectionchiz" className='text-decoration-none fs-4 text-capitalize ms-3'>twitter</a>
-        <a href="https://www.instagram.com/perfection_chizuruoke/" className='text-decoration-none fs-4 text-capitalize ms-3'>instagram</a>
+        <a href="" className='text-decoration-none fs-4 text-capitalize ms-3'>instagram</a>
         <a href="https://www.linkedin.com/in/ihekwoaba-perfection-820612206/" className='text-decoration-none fs-4 text-capitalize ms-3'>linkden</a>
         <a href="https://github.com/Lloydpop" className='text-decoration-none fs-4 text-capitalize ms-3'>github</a>
      </div>
